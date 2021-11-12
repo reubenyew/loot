@@ -50,9 +50,9 @@
     "lodash": "^4.17.5",
     "marked": "^0.6.0",
     "prop-types": "^15.6.2",
-    "react": "^16.6.3",
+    "react": "^16.14.0",
     "react-autosuggest": "^9.3.4",
-    "react-dom": "^16.6.3",
+    "react-dom": "^16.14.0",
     "replace": "^1.0.0",
     "request": "^2.79.0",
     "web-animations-js": "^2.3.1"
