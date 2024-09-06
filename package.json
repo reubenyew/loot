@@ -13,7 +13,7 @@
   "homepage": "https://github.com/loot/loot",
   "private": true,
   "dependencies": {
-    "@octokit/rest": "^16.8.0",
+    "@octokit/rest": "^17.0.0",
     "@polymer/app-layout": "^3.0.0",
     "@polymer/iron-flex-layout": "^3.0.0",
     "@polymer/iron-icon": "^3.0.0",
@@ -41,7 +41,7 @@
     "@polymer/paper-tooltip": "^3.0.0",
     "@polymer/polymer": "3.0.5",
     "cytoscape": "^3.2.11",
-    "cytoscape-dagre": "^2.2.2",
+    "cytoscape-dagre": "^2.3.0",
     "cytoscape-edgehandles": "^3.2.3",
     "decompress": "^4.0.0",
     "fs-extra": "^7.0.0",
@@ -53,7 +53,7 @@
     "react": "^16.6.3",
     "react-autosuggest": "^9.3.4",
     "react-dom": "^16.6.3",
-    "replace": "^1.0.0",
+    "replace": "^1.1.2",
     "request": "^2.79.0",
     "web-animations-js": "^2.3.1"
   },
